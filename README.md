@@ -18,7 +18,7 @@ Insert the following code to activate the pluign:
             $('#facebook_gallery').facebook_gallery({
                 id: 'your_id',
                 access_token: 'your_access_token',
-                count: 10
+                limit: 10
             });
         });
     })(jQuery);
@@ -27,7 +27,7 @@ options:
 
     id: '' - insert your profile og fanpage id
     access_token: '' - insert your acces token
-    count: 10 - any amount from 1-15
+    limit: 10 - any amount from 1-15
     timeout: 400 - any amount (in miliseconds)
     speed: 400 - any amount (in miliseconds)
     effect: 'slide' - choices: 'slide', 'fade' or 'none'
