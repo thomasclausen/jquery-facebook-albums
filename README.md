@@ -1,15 +1,15 @@
 STIL WORK IN PROGRESS!
 =======================
 
-# Description
+# Facebook Gallery
 
 jQuery plugin that lets you show the albums and photos from your facebook profile og page.
 
-# Examples
+### Examples
 
 The plugin can be seen live here: [http://beta.thomasclausen.dk/facebook-gallery/](http://beta.thomasclausen.dk/facebook-gallery/)
 
-# Usage
+### Usage
 
 Insert the following code to activate the pluign:
 
@@ -36,12 +36,12 @@ options:
     avatar_size: 'thumbnail' - choices: 'low_resolution', 'thumbnail' or 'standard_resolution'
     caption_length: 200, // Any amount you like. Above 0 shortens the message length
 
-# Feedback
+### Feedback
 
 I'm self-taught by scattering code across the web, so if you see some bad practices PLEASE contact me, so I can learn from the mistakes I'm making!
 
 Also feel free to contact me if you have som great ideas for improvements.
 
-# License
+### License
 
 Credits would be nice, but feel free to use as often as you like.
